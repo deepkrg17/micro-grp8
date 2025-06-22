@@ -15,3 +15,10 @@ layout: home
 |  86  | Deep Kumar Ghosh |    কৃৎকলা     |  -   |   -   |    -    |  পর্যবেক্ষণ   |  -   |   -   |   -    |
 |  87  |   Manti Mondal   |  পর্যবেক্ষণ   | Beng |   3   |   নদী   | শিশুকেন্দ্রিক | Math |   1   | বিয়োগ |
 |  88  |   Rakhi Mahato   | শিশুকেন্দ্রিক |  -   |   -   |    -    |   প্রশ্নকরন   | Math |   3   |  ঘড়ি  |
+
+
+<style>
+  .feed-subscribe {
+    display: none;
+}
+</style>
