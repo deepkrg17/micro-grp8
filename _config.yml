@@ -3,3 +3,8 @@ plugins:
   - jekyll-remote-theme
 minima:
   skin: auto
+  hide_site_feed_link: true
+  social_links:
+    - title: Repository at GitHub
+      icon: github
+      url: "https://github.com/deepkrg17/micro-grp8"
