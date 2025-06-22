@@ -1,1 +1,3 @@
-remote_theme: indigo
+remote_theme: sergiokopplin/indigo
+plugins:
+  - jekyll-remote-theme
