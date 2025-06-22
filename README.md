@@ -1,4 +1,7 @@
-# Grp-8 Micro Lineup
+---
+title: Grp-8 Micro Lineup
+layout: home
+---
 
 | Roll |       Name       |    Skill-I    | Sub  | Class |  Topic  |   Skill-II    | Sub  | Class | Topic  |
 | :--: | :--------------: | :-----------: | :--: | :---: | :-----: | :-----------: | :--: | :---: | :----: |
